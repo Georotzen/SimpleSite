@@ -6,8 +6,13 @@ div.container {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: #8f710d;
-  background-color: #06550c;
+  color: white;
+  background-color:  #061155; 
+}
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 14px;
+  font-weight: 200;
 }
 
 header, footer {
